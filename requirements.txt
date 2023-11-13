@@ -1,0 +1,5 @@
+openai==0.28.1
+llama-index==0.8.45.post1
+langchain==0.0.314
+chainlit==0.7.2
+nltk==3.8.1
