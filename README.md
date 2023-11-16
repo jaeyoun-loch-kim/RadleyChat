@@ -1,2 +1,2 @@
 # RadleyChat
-RadleyChat Chatbot
+Radley College Chatbot
